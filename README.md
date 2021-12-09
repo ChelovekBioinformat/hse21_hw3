@@ -28,3 +28,22 @@ multiQC
 
 ![2021-12-09_04-52-09](https://user-images.githubusercontent.com/95506249/145440754-9a9b748b-a30d-43a6-89ce-c2c2b15763e1.png)
 
+# Поиск генов, которые значимо поменяли свою экспрессию
+
+MA-plot
+
+![2021-12-09_04-30-02](https://user-images.githubusercontent.com/95506249/145440994-932c01e0-15f2-4dbb-823d-9a277fb68d88.png)
+
+Тепловая карта, которая показывает, что все контрольные образцы похожи между собой, а перепрограммированные образцы -- между собой
+
+![2021-12-09_04-31-43](https://user-images.githubusercontent.com/95506249/145441111-196f8433-69e7-43e1-8ee6-91a67a8b2609.png)
+
+![2021-12-09_04-31-07](https://user-images.githubusercontent.com/95506249/145441134-6700fdec-1a08-4a28-9be2-d8ff363332e3.png)
+
+Для нескольких генов, которые наиболее значимо поменяли свою экспрессию - графики со значениями "Normalized counts" в контрольных и перепрограммированных образцах
+
+![2021-12-09_04-39-47](https://user-images.githubusercontent.com/95506249/145441253-21b49b27-bc67-4cc0-a937-e51758d7f324.png)
+
+![2021-12-09_04-40-19](https://user-images.githubusercontent.com/95506249/145441279-c9bfe2b1-9fb5-44b4-a281-13baad978471.png)
+
+![2021-12-09_04-40-48](https://user-images.githubusercontent.com/95506249/145441321-0860a64a-f3d8-4bb7-92af-7ca3780290a8.png)
