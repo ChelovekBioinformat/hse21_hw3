@@ -3,3 +3,5 @@
 
 Коллаб 2: https://colab.research.google.com/drive/1xaar_EMweuB1yQed7PWuKUn3vFY5N3tM?hl=ru
 # Выравнивание RNA-seq чтений
+
+multiQC
