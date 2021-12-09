@@ -23,3 +23,8 @@ multiQC
 ![2021-12-09_00-23-35](https://user-images.githubusercontent.com/95506249/145440109-fe66b8f9-46ff-4730-a318-6fc9397f2566.png)
 
 ![2021-12-09_00-30-24](https://user-images.githubusercontent.com/95506249/145440129-bfbf9b06-3454-4fa7-89d6-86d935623b00.png)
+
+Таблица со статистикой по каждому из 6-ти образцов
+
+![2021-12-09_04-52-09](https://user-images.githubusercontent.com/95506249/145440754-9a9b748b-a30d-43a6-89ce-c2c2b15763e1.png)
+
